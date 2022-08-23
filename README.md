@@ -1,5 +1,7 @@
 # AutoLogMCPE-script
-made by cmo aka Pvpit credits to him for making this open source
+made by cmo aka Pvpit credits to him for making this open source AND YOU CAN FORK THIS TO MAKE IT BETTER IN YOUR OWN WAY
+
+
 
 this is legal because it moves ur cursor automatically to the save and quit button
 
